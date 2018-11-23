@@ -48,13 +48,8 @@ def list_page(url, foldername):
 
 
 def detail_page(url):
-    chrome_options = Options()
-    # 无头模式启动
-    chrome_options.add_argument('--headless')
-    # 谷歌文档提到需要加上这个属性来规避bug
-    chrome_options.add_argument('--disable-gpu')
-    # 初始化实例
-    driver = webdriver.Chrome(chrome_options=chrome_options)
+    driver = webdriver.PhantomJS()
+    driver.set_window_size(1366, 768)
     driver.get(url)
     resp = driver.page_source
     html = etree.HTML(resp)
