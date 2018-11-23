@@ -5,12 +5,13 @@ Join Telegram Group and contribute your idea！：https://t.me/joinchat/JG5m4hKW
 ![image](https://raw.githubusercontent.com/Tsingtong/1993s/master/png/1.png)
 
 ## Features
-+ High Speed video download architecture (up to 100Mbps)
++ High Speed HTTP/HTTPS file downloader
 + Multi-threaded fetch multiple URLs
-+ Easy install
++ Easy use
 + Server Version is coming....
 
 ## 用法简介（从Docker）
+
 + Dockerfile is under development...
 
 ## 用法简介（从源码）
