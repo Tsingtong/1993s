@@ -16,7 +16,8 @@ Join Telegram Group and contribute your idea！：https://t.me/joinchat/JG5m4hKW
 
 ## 用法简介（从源码）
 
-- ```本项目适用于py3，windows, mac, linux全平台支持```
+- ```本项目适用于python3，如果不是使用virtualenv，注意将下面的pip命令换成pip3，python命令换成python3```
+- ```windows, mac, linux(nstable)全平台支持```
 - ```git clone https://github.com/Tsingtong/1993s.git ```
 - ```cd 1993s && pip install -r requirements.txt```
 - ```brew install phantomjs```
