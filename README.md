@@ -1,5 +1,5 @@
 # 1993s spider
-crawl poster and mp4 from 1993s----从「在线之家」爬电影面和视频<br/>
+Crawl poster and mp4 from 1993s----从「在线之家」爬电影封面和视频<br/>
 Join Telegram Group！：https://t.me/joinchat/JG5m4hKWVamZJ_S9KldJFA
 
 ![image](https://raw.githubusercontent.com/Tsingtong/1993s/master/png/1.png)
