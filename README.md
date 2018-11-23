@@ -14,10 +14,10 @@ crawl poster and mp4 from 1993s----从「在线之家」爬电影封面和视频
 - ```cd 1993s && pip install -r requirements.txt```
 - ```python crawler.py run movie_poster```
 - 待程序运行完毕，会在movie_poster文件夹下download五页120个电影封面图，对应名称为：电影名_URL.jpg，如"蚁人2：黄蜂女现身_1567.jpg"
-- 把URL放到download.txt里，运行```python crawler.py run mp4```, 在MP4文件夹可看到下载好的该电影MP4文件
+- 把URL放到download.txt里，运行```python crawler.py run mp4```, 在movie文件夹可看到下载好的该电影MP4文件
 - ```python crawler.py run show_poster```
 - 待程序运行完毕，会在show_poster文件夹下download五页120个美剧封面图，对应名称为：美剧名_URL.jpg，如"少年谢尔顿第二季_1528.jpg"
-- 把URL放到download.txt里，运行```python crawler.py run mp4```, 在MP4文件夹可看到下载好的该美剧全集MP4文件
+- 把URL放到download.txt里，运行```python crawler.py run mp4```, 在show文件夹可看到下载好的该美剧全集MP4文件
 
 
 ## 引用
