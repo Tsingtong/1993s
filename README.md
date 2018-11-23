@@ -4,6 +4,9 @@ Join Telegram Group！：https://t.me/joinchat/JG5m4hKWVamZJ_S9KldJFA
 
 ![image](https://raw.githubusercontent.com/Tsingtong/1993s/master/png/1.png)
 
+## Features
++ High Speed video download architecture(up to 100Mbps)
++ multi-threaded fetch multiple URLs
 
 ## 用法简介
 
